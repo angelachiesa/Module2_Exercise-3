@@ -1,25 +1,3 @@
-Notepad++ 7.4.2 new featurs/enhancements & bug-fixes:
-
-1.  Add SWIFT language support.
-2.  Fix replace in files regression.
-3.  Enhance Find Replace dialog (resizable & remove search direction radio buttons).
-4.  Fix a crash issue while doing a column insertion on a CJK unicode document.
-5.  Fix repeated notification dialog for modification from outside of Notepad++.
-6.  Fix a visual glitchy during tab drag and drop.
-
-
-Included plugins:
-
-1.  NppExport v0.2.8 (32-bit x86 only)
-2.  Plugin Manager 1.3.5 (32-bit x86 only)
-3.  Converter 4.2.1
-4.  Mime Tool 2.1
-
-
-Updater (Installer only):
-
-* WinGup v4.1
-<biblScope>8</biblScope>
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="000style.xsl"?>
 <teiCorpus>
@@ -65,34 +43,29 @@ Updater (Installer only):
                 </publicationStmt>
                 <sourceDesc>
                     <bibl>
-                        <biblScope>1</biblScope>
+                        <biblScope>8</biblScope>
                     </bibl>
                 </sourceDesc>
             </fileDesc>
         </teiHeader>
         <text>
             <body>
-                
-            </body>
-        </text>
-    </TEI>
-</teiCorpus>
-<biblScope>8</biblScope>
 
-<p> to be compelled to daily labour for another ? Is the 
-sound of the whip so very exhilarating that it dispels 
+
+
+<p> sound of the whip so very exhilarating that it dispels 
 at once indolence and suffering I But I admit the fact 
-of their indolence. The human mind fits itself to its 
+of their indolence. <interp key="this claim is not true because that is extremly racist" n="Macaulay, 8" cert="unknown" ref="https://http://www.recoveredhistories.org/pamphlet1.php?catid=66l">  The human mind fits itself to its 
 situation, and to tbe demands which are made upon its 
-energies. <interp key="this claim is not true because that is extremly racist" n="Macaulay, 8" cert="unknown" ref="https://http://www.recoveredhistories.org/pamphlet1.php?catid=66l"> </interp>
+energies. </interp>
 Cut off hope for the future and freedom for 
 the present; superadd a due pressure of bodily suffering 
 and personal degradation; and you have a slave, who, 
 of whatever zone, nation, or complexion, will be, what 
 the poor African is, torpid, debased, and lowered be- 
-neath the standard of humanity. 
+neath the standard of humanity.
 
-<p> " To inquire if, so circumstanced, be is happy, would 
+To inquire if, so circumstanced, be is happy, would 
 be a question idly ridiculous, except that the affirmative 
 is not only gravely maintained, but constitutes an es-
 sential moral prop of tbe whole slave system. Neither 
@@ -104,11 +77,12 @@ result of the operation of certain accidents ?? on the
 human constitution, the aggregate of oar sensations 
 (that is, our happiness or misery) must be allowed to 
 depend on the number and combination of these ac- 
-cidents. <interp key="this claim is true because it's common sense" n="Macaulay, 8" cert="unknown" ref="https://http://www.recoveredhistories.org/pamphlet1.php?catid=66l"> </interp>
-' If yon prick us, do we not bleed ? If you 
+cidents. <interp key="this claim is true because it's common sense" n="Macaulay, 8" cert="unknown" ref="https://http://www.recoveredhistories.org/pamphlet1.php?catid=66l">  
+" If yon prick us, do we not bleed ? If you 
 tickle as, do we not laugh ? If you poison us, do we 
-not die ?'  
-<p> "Should there bo any unknown principle in the 
+not die? " </interp>
+
+Should there bo any unknown principle in the 
 Negro's constitution which enables him to convert 
 natural effects into their contraries, and so despise con-
 tingencies whether of good or evil, be may pride him-
@@ -117,6 +91,9 @@ stoics; but the fact would no more justify bis oppressors,
 than did the stubborn endurance of Epictetus the bar-
 barity of his master, who broke his leg. It would be 
 too much, first to inflict a cruelty, and then to take 
-credit for the patience with which it is supported: but
+credit for the patience with which it is supported: but </p>
 
-</body></text></TEI></teiCorpus>
+			</body>
+		</text>
+	</TEI>
+</teiCorpus>
